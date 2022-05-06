@@ -1,0 +1,28 @@
+{
+  "ticker":"FB",
+  "name":"Meta Platforms",
+  "industry":"IT, Internet, Software & Services",
+  "foundedIn":2004,
+  "financial_data":[
+     {    "indicator":"PE",
+          "value":15
+     },
+  
+     {    "indicator":"PS",
+          "value":5
+     },
+  
+     {    "indicator":"EPS",
+          "value":13
+     },
+  
+     {    "indicator":"Dividend YIELD",
+          "value":0
+     },
+  
+     {    "indicator":"ROIC",
+          "value":13
+     }
+]
+
+}

@@ -1,0 +1,28 @@
+{
+  "ticker":"MSFT",
+  "name":"Microsoft Corporation",
+  "industry":"Software Development",
+  "foundedIn":1975,
+  "financial_data":[
+	{   "indicator":"PE",
+		"value":33
+	},
+
+    {       "indicator":"PS",
+            "value":12
+    },
+
+    {       "indicator":"EPS",
+            "value":9
+    },
+
+    {       "indicator":"Dividend YIELD",
+            "value":1
+    },
+
+    {       "indicator":"ROIC",
+            "value":33
+    }
+]
+
+}

@@ -1,0 +1,28 @@
+{
+  "ticker":"DIS",
+  "name":"The Wall Disney Company",
+  "industry":"Media Entertainment",
+  "foundedIn":1923,
+  "financial_data":[
+     {    "indicator":"PE",
+          "value":82
+     },
+  
+     {    "indicator":"PS",
+          "value":3
+     },
+  
+     {    "indicator":"EPS",
+          "value":2
+     },
+  
+     {    "indicator":"Dividend YIELD",
+          "value":0
+     },
+  
+     {    "indicator":"ROIC",
+          "value":3
+     }
+]
+
+}

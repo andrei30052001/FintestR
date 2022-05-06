@@ -1,0 +1,28 @@
+{
+  "ticker":"AAPL",
+  "name":"Apple INC.",
+  "industry":"Consumer Electronics",
+  "foundedIn":1976,
+  "financial_data":[
+     {    "indicator":"PE",
+          "value":29
+     },
+  
+     {    "indicator":"PS",
+          "value":7
+     },
+  
+     {    "indicator":"EPS",
+          "value":6
+     },
+  
+     {    "indicator":"Dividend YIELD",
+          "value":1
+     },
+  
+     {    "indicator":"ROIC",
+          "value":35
+     }
+]
+
+}

@@ -1,0 +1,28 @@
+{
+  "ticker":"NFLX",
+  "name":"Netflix INC.",
+  "industry":"Technology and Entertainment",
+  "foundedIn":1997,
+  "financial_data":[
+     {    "indicator":"PE",
+          "value":33
+     },
+  
+     {    "indicator":"PS",
+          "value":6
+     },
+  
+     {    "indicator":"EPS",
+          "value":11
+     },
+  
+     {    "indicator":"Dividend YIELD",
+          "value":0
+     },
+  
+     {    "indicator":"ROIC",
+          "value":14
+     }
+]
+
+}

@@ -1,0 +1,43 @@
+[
+	{
+		"username": "andrei_ionescu",
+		"password": "xyz",
+		"country":  "Romania",
+		"key":      "a"
+	},
+	
+	{
+		"username": "mihai_mihai",
+		"password": "a234cgrm",
+		"country":  "Romania",
+		"key":      "0"
+	},
+	
+	{
+		"username": "crasovan.serban",
+		"password": "bitcoin",
+		"country":  "Romania",
+		"key":      "a"
+	},
+	
+	{
+		"username": "harald123",
+		"password": "kkwk",
+		"country":  "Austria",
+		"key": "0"
+	},
+	
+	{
+		"username": "richard__1900",
+		"password": "carbmw",
+		"country":  "USA",
+		"key": "0"
+	},
+	
+	{
+		"username": "daniela.9000.it",
+		"password": "gucciprada",
+		"country":  "Italia",
+		"key": "0"
+	}
+]
