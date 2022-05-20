@@ -6,35 +6,29 @@ public class User {
 	private String country;
 	private String key;
 	
-	public String getUserName() {
+	public String getUsername() {
 		return username;
 	}
-
-	public void setUserName(String name) {
+	public void setUsername(String username) {
 		this.username = username;
 	}
-	
-	public String getPwd() {
+	public String getPassword() {
 		return password;
 	}
-
-	public void setPwd(String name) {
+	public void setPassword(String password) {
 		this.password = password;
 	}
-	
 	public String getCountry() {
 		return country;
 	}
-
-	public void setCountry(String name) {
+	public void setCountry(String country) {
 		this.country = country;
 	}
-	
 	public String getKey() {
 		return key;
 	}
-
-	public void setKey(String name) {
+	public void setKey(String key) {
 		this.key = key;
 	}
+	
 }
